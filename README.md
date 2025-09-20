@@ -15,10 +15,10 @@ O objetivo é mostrar, de forma didática, como:
 
 ```
 
-├── evidently\_observabilidade\_iris.ipynb   # Notebook principal
+├── evidently_observabilidade_iris.ipynb   # Notebook principal
 ├── reports/                               # Saída dos relatórios HTML
-│   ├── iris\_data\_drift\_report.html
-│   └── iris\_classification\_performance\_report.html
+│   ├── iris_data_drift_report.html
+│   └── iris_classification_performance_report.html
 ├── requirements_evidently.txt
 └── README.md
 
