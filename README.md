@@ -19,6 +19,7 @@ O objetivo é mostrar, de forma didática, como:
 ├── reports/                               # Saída dos relatórios HTML
 │   ├── iris\_data\_drift\_report.html
 │   └── iris\_classification\_performance\_report.html
+├── requirements_evidently.txt
 └── README.md
 
 ````
